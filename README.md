@@ -17,11 +17,14 @@ Pipeline ini melakukan:
 5. Visualisasi GC Content (bar chart) untuk top 10 sequence tertinggi
 6. Menyimpan hasil ke file CSV
 
-STRUKTUR FOLDER
+```
+STRUKTUR FOLDER	
+
 MiniProject/
-├── main.py
-├── data/
-│   └── contoh ecoli.fasta
-├── outputs/
-│   └── grafik_gc_content.png
-│   └── hasil_gc_content.csv
+	├── main.py
+	├── data/
+	│   └── contoh ecoli.fasta
+	├── outputs/
+	│   └── grafik_gc_content.png
+	│   └── hasil_gc_content.csv
+```
