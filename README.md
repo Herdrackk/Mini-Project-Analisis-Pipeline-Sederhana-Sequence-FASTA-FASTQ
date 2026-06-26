@@ -14,7 +14,7 @@ Pipeline ini melakukan:
 2. Menghitung frekuensi nukleotida tiap sequence -> pakai Dictionary
 3. Mengurutkan sequence berdasarkan GC Content
 4. Menampilkan 3 sequence dengan GC Content tertinggi
-5. Visualisasi GC Content (bar chart) untuk top 10 sequence tertinggi
+5. Visualisasi GC Content menggunakan bar chart untuk top 10 sequence tertinggi
 6. Menyimpan hasil ke file CSV
 
 ```
